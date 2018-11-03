@@ -1,0 +1,1 @@
+En esta lección vas a dar tus primeros pasos en el mundo de los bloques y de la lógica. Para ello vas a conocer las _verdades_.

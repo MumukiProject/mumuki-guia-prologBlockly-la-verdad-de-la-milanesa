@@ -1,0 +1,9 @@
+---
+name: La verdad de la milanesa
+locale: es
+type: learning
+beta: false
+teacher_info: 
+language: prologBlockly
+id_format: "%05d"
+order: []
