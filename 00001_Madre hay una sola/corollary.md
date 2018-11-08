@@ -1,1 +1,1 @@
-Acabas de conocer los dos primeros tipos de bloques con los que vamos a trabajar. Los bloques de _**Verdad**_ y de _**Individuos**_. El bloque `esMadre` es un bloque de _Verdad_. Como bien lo dice su nombre, nos sirve para declarar verdades sobre _individuos_, como por ejemplo: _Gabriela_ o _Graciela_.
+¿Pudiste reconocer la verdad y los individuos? La verdad, representada en el bloque amarillo, es `esMadre`. Los individuos, representados con los bloques azules, son las madres. En este caso, `Gabriela`, `Graciela`, `Aida`, `Elena`.
