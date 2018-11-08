@@ -1,4 +1,5 @@
-<pl-toolbox toolbox-url="http://162.243.62.18:3001/assets/editor/soloVerdades.xml"></pl-toolbox>
+<pl-toolbox toolbox-url="http://162.243.62.18:3001/assets/editor/soloVerdadesDe1Parametro.xml
+"></pl-toolbox>
 
 Vamos a conocer nuestros primeros bloques. 
 
