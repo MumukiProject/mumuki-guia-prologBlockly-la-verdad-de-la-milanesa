@@ -1,1 +1,1 @@
-¡Muy bien! Lograste crear tu primera verdad, `esPadre`. Ahora ya podemos afirmar que `Jorge`, `Pablo`, `Ernesto` y `Eduardo`, son padres.
+¡Muy bien! Lograste crear tu primera verdad, `esPadre`. Ahora ya podemos afirmar que los individuos `Jorge`, `Pablo`, `Ernesto` y `Eduardo`, son padres.
